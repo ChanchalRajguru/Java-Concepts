@@ -1,4 +1,4 @@
-package com.example.concepts.composition;
+package com.example.concepts.composition.CarExample;
 
 public class Car {
 
