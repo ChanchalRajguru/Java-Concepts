@@ -8,6 +8,7 @@ public class Bird {
         this.flyBehaviour = flyBehaviour;
     }
 
+    //fly behavior
     void performFly(){
         flyBehaviour.fly();
     }
